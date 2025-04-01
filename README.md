@@ -1,4 +1,4 @@
-# effects-noise-overlay
+# img-effects-noise-overlay
 
 ## Requirements
 
